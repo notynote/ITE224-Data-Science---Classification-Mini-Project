@@ -8,3 +8,8 @@ Question:
 Dataset 
   Video Game Sales with Ratings by Rush Kirubi
   https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+  
+  
+I should get better dataset with rating maybe https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
+The way to answer question is if i have this game where should I sell to
